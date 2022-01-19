@@ -42,11 +42,13 @@ First we created an aux function, to check if a number is prime or not, then use
 ## Execution
 
 Para ejecutar el programa abre una terminal desde la carpeta del repositorio y ejecuta el siguiente comando
+	
 	$ java -jar --enable-preview LPN_Nuwe.jar
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 To execute the program open a new terminal on the repository folder and type this command
+	
 	$ java -jar --enable-preview LPN_Nuwe.jar
 	
 ## Contact info 
